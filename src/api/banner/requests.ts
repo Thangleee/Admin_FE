@@ -26,7 +26,6 @@ export const createBanner = async (formData: BannerSchema): Promise<IBanner> => 
   });
   return data?.data;
 };
-
 export const updateBanner = async ({
   id,
   formData,
