@@ -10,7 +10,6 @@ export const getBanners = async (params: Partial<IBannerQuery>): Promise<IBanner
   });
   return data?.data;
 };
-
 export const getBannerById = async (id: string): Promise<IBanner> => {
   const { data } = await client({
     url: `/api/admin/banners/${id}`,
