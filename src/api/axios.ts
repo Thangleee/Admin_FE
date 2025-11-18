@@ -30,7 +30,6 @@ const onRefreshToken = async (refreshToken: string) => {
   }
   return null;
 };
-
 export const handleError = async (error: AxiosError): Promise<void> => {
   const originalRequest = error.config!;
   const data = error?.response as any;
