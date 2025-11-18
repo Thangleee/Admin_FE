@@ -28,7 +28,6 @@ const onRefreshToken = async (refreshToken: string) => {
     deleteCookie('access_token');
     deleteCookie('refresh_token');
   }
-
   return null;
 };
 
