@@ -33,7 +33,6 @@ const onRefreshToken = async (refreshToken: string) => {
 export const handleError = async (error: AxiosError): Promise<void> => {
   const originalRequest = error.config!;
   const data = error?.response as any;
-
   if (data?.status === 401 || data?.data?.error === 'Invalid token') {
     const refreshToken = getCookie('refresh_token');
 
