@@ -17,7 +17,6 @@ export const getBannerById = async (id: string): Promise<IBanner> => {
   });
   return data?.data;
 };
-
 export const createBanner = async (formData: BannerSchema): Promise<IBanner> => {
   const { data } = await client({
     url: '/api/admin/banners',
