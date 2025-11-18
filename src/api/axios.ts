@@ -17,7 +17,6 @@ let refreshTokenPromise: Promise<string | null> | null = null;
 
 const onRefreshToken = async (refreshToken: string) => {
   const store = useUserStore.getState();
-
   try {
     const { accessToken } = await refreshTokenRequest(refreshToken);
     return accessToken;
