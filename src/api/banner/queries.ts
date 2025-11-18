@@ -19,7 +19,6 @@ export const useCreateBannerMutation = createMutation<IBanner, BannerSchema>({
 export const useUpdateBannerMutation = createMutation<IBanner, { id: string; formData: Partial<BannerSchema> }>({
   mutationFn: ({ id, formData }) => updateBanner({ id, formData }),
 });
-
 export const useDeleteBannerMutation = createMutation<void, string>({
   mutationFn: (id) => deleteBanner(id),
 });
