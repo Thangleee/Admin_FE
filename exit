@@ -1,0 +1,68 @@
+[33mcommit 818c47b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/home-page[m[33m, [m[1;31morigin/feature/home-page[m[33m)[m
+Author: tienhung0210 <yenthph31575@fpt.edu.vn>
+Commit: tienhung0210 <yenthph31575@fpt.edu.vn>
+
+    UPDATE UI
+
+[33mcommit d55666c[m
+Author: yenthph31575 <yenthph31575@fpt.edu.vn>
+Commit: yenthph31575 <yenthph31575@fpt.edu.vn>
+
+    updated
+
+[33mcommit e1f29e7[m
+Author: tienhung0210 <hungntph45743@fpt.edu.vn>
+Commit: yenthph31575 <yenthph31575@fpt.edu.vn>
+
+    update UI
+
+[33mcommit 40e7bd1[m
+Author: yenthph31575 <yenthph31575@fpt.edu.vn>
+Commit: yenthph31575 <yenthph31575@fpt.edu.vn>
+
+    test page
+
+[33mcommit 71ef667[m
+Author: yenthph31575 <yenthph31575@fpt.edu.vn>
+Commit: yenthph31575 <yenthph31575@fpt.edu.vn>
+
+    fix page
+
+[33mcommit 65c0e6e[m
+Author: yenthph31575 <yenthph31575@fpt.edu.vn>
+Commit: yenthph31575 <yenthph31575@fpt.edu.vn>
+
+    updated ui
+
+[33mcommit 46ed9b4[m
+Author: yenthph31575 <yenthph31575@fpt.edu.vn>
+Commit: yenthph31575 <yenthph31575@fpt.edu.vn>
+
+    update ui
+
+[33mcommit cce102d[m
+Author: yenthph31575 <yenthph31575@fpt.edu.vn>
+Commit: yenthph31575 <yenthph31575@fpt.edu.vn>
+
+    update login page
+
+[33mcommit 4526dd0[m
+Merge: 4783c91 6814605
+Author: Thangleee <139549701+Thangleee@users.noreply.github.com>
+Commit: GitHub <noreply@github.com>
+
+    Merge pull request #1 from Thangleee/feat/admin-login
+    
+    fix login page
+
+[33mcommit 6814605[m
+Author: Thangleee <kiet747474@gmail.com>
+Commit: Thangleee <kiet747474@gmail.com>
+
+    fix login page
+
+[33mcommit 4783c91[m
+Author: Thangleee <kiet747474@gmail.com>
+Commit: Thangleee <kiet747474@gmail.com>
+
+    Initial commit
